@@ -1,0 +1,181 @@
+ 1657  git init
+ 1658  git status 
+ 1659  git checkout -b finalcode
+ 1661  git status
+ 1662  git branch
+ 1663  git checkout -b master
+ 1665  git sta
+ 1666  git status
+ 1667  git add gittest/
+ 1668  cd gittest/
+ 1670  git status
+ 1671  git add test.txt 
+ 1672  git status
+ 1673  git commit -m "added test.txt file"
+ 1674  git status
+ 1675  sudo git commit -m "added test.txt file"
+ 1676  sudo git commit 
+ 1677  git config --global user.name "Abhishek Athavale" 
+ 1678  git config --global user.email "athavale216@gmail.com"
+ 1679  git commit -m "added test.txt file"
+ 1680  git status
+ 1681  git add 1/
+ 1682  git add 2/
+ 1683  git status
+ 1684  git commit "added final code 1 and 2"
+ 1685  git commit "added final code 1/ and 2/"
+ 1686  git commit -m "added final code 1/ and 2/"
+ 1687  git status
+ 1688  git checkout -b finalcode
+ 1689  git status
+ 1690  git checkout  finalcode
+ 1694  git status
+ 1697  git status
+ 1698  git restore test.txt
+ 1699  git status
+ 1703  git restore test.txt
+ 1765  /** @var ReqPointToTargetParams :: longitude
+ 1779  FLOAT                   longitude        
+ 1810  /** @var RespGetCurrentLocationParams :: longitude
+ 1819  FLOAT                   longitude        
+ 1856  git status
+ 1860  git sta
+ 1861  git status
+ 1862  git commit -m "added test.txt file"
+ 1863  git commit -a
+ 1864  git add 
+ 1865  git add test.txt 
+ 1866  git status
+ 1867  git commit -m "added test.txt file"
+ 1872  git restore test.txt
+ 1875  git checkout  finalcode
+ 1876  git checkout master 
+ 1878  git ststus
+ 1879  git status
+ 1882  git status
+ 1883  git checkout finalcode 
+ 1886  git checkout finalcode 
+ 1887  git checkout master
+ 1891  git sta
+ 1892  git status
+ 1893  git rm test.txt 
+ 1895  git status
+ 1896  git commit -m " delete test.txt file"
+ 1898  git status
+ 1899  git checkout finalcode 
+ 1900  git status
+ 1905  git checkout finalcode 
+ 1906  git status
+ 1907  git checkout master 
+ 1910  ls -al .git/
+ 1917  git checkout finalcode 
+ 1920  git checkout master 
+ 1923  git status 
+ 1924  git add test1.txt 
+ 1925  git status 
+ 1926  git commit "file test1.txt added"
+ 1927  git commit -m  "file test1.txt added"
+ 1928  git status 
+ 1930  git checkout finalcode 
+ 1932  git status
+ 1936  git status
+ 1937  git add test2.txt 
+ 1938  git commit -m "this is tset2.txt file"
+ 1940  git sta
+ 1941  git status 
+ 1945  git checkout finalcode 
+ 1947  git status
+ 1948  git checkout finalcode 
+ 1955  cd gittest/i
+ 1956  cd gittest/
+ 1958  git status
+ 1961  git commit 
+ 1962  git add test.txt 
+ 1963  git status
+ 1964  git commit "message test.txt" 
+ 1965  git commit -m "message test.txt" 
+ 1972  git status
+ 1973  git restore test.txt
+ 1975  git checkout master 
+ 1977  git checkout finalcode 
+ 1979  git clone git@github.com:AbhishekAthavele/git_test.git
+ 1980  git push origin master 
+ 1981  git remote add origin git@github.com:AbhishekAthavele/git_test.git
+ 1982  git branch -M main
+ 1983  git push -u origin main
+ 1984  git remote add origin git@github.com:AbhishekAthavele/git_test.git
+ 1985  git branch -M main
+ 1986  git push -u origin main
+ 1990  mkdir githubtest
+ 1991  git clone https://github.com/AbhishekAthavele/git_test.git
+ 1993  rm git_test/
+ 1994  cd githubtest/
+ 1996  git clone https://github.com/AbhishekAthavele/git_test.git
+ 1998  cd git_test/
+ 2002  git add abc 
+ 2003  git commit -m " abc file added"
+ 2005  git push origin main 
+ 2007  git clone https://github.com/AbhishekAthavele/git_test.git
+ 2008  git push origin main
+ 2010  git clone git@github.com:AbhishekAthavele/test1.git
+ 2011  git push origin main
+ 2012  git remote add orign git@github.com:AbhishekAthavele/test1.git
+ 2013  git push origin master
+ 2014  git push origin main
+ 2016  git status 
+ 2018  cd git_test/
+ 2026  cd gittest/
+ 2028  git status 
+ 2029  git add git_test/
+ 2031  git checkout master 
+ 2033  git status 
+ 2034  git add git_test/
+ 2036  rm git_
+ 2037  rm git_test/
+ 2039  git status 
+ 2040  git add git_test/
+ 2041  cd git_test/
+ 2044  rm -fr git_
+ 2045  rm -fr git_test/
+ 2047  git remote add origin git@github.com:AbhishekAthavele/project-1-test.git
+ 2048  git remote -v
+ 2049  git push origin master
+ 2053  rm -rf githubtest/
+ 2055  rm -rf gittest/
+ 2056  rm -rf git_test/
+ 2062  cd git_test/
+ 2064  rm -rf git_test
+ 2068  rm -rf git_test
+ 2097  mkdir git_project_sep7
+ 2098  cd git_project_sep7/
+ 2100  git init
+ 2103  git add hello.py 
+ 2105  git status
+ 2106  git commit -m "hello.py commit"
+ 2108  git status
+ 2109  git remote add origin https://github.com/AbhishekAthavele/project-1-test.git
+ 2110  git remote version -v
+ 2111  git  version -v
+ 2112  git remote -v
+ 2113  git branch -M main
+ 2114  git push -u origin main
+ 2116  git status 
+ 2117  git checkout master
+ 2119  git checkout master
+ 2120  git checkout dev
+ 2121  git branch
+ 2122  git checkout -b abhishek.athavale
+ 2126  git status
+ 2127  git add .
+ 2128  git status
+ 2129  git commit -m "program1.py"
+ 2130  git status
+ 2131  git checkout main 
+ 2132  git branch 
+ 2133  git push -u origin main
+ 2137  git checkout abhishek.athavale 
+ 2139  git status 
+ 2140  git push -u origin main
+ 2141  git push -u origin abhishek.athavale
+ 2143  history | grep "git"
+ 2144  history | grep "git" > git_commands
